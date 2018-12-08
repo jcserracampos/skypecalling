@@ -1,0 +1,6 @@
+{
+    "SkypeCallingSend_Command_Description": "This command shares a link to direct call in Skype.",
+    "SkypeCallingSend_Command_Example": "skype_username",
+    "SkypeCalling_Bot": "The bot user that will allow you to send links to direct call people in Skype",
+    "SkypeCalling_Bot_Description": "Create a bot user and type his username here"
+}
